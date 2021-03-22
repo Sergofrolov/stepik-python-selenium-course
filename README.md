@@ -1,3 +1,3 @@
 # stepik-python-selenium-course
-completed tasks
-Здесь хранятся выполненные задания из курса автоматизации Selenium+Python на сайте stepik.org
+
+Здесь хранятся выполненные задания из курса автоматизации Selenium+Python на сайте stepik.org (https://stepik.org/course/575)
